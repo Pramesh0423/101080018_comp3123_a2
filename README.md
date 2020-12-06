@@ -1,4 +1,7 @@
-#images files uploaded
+
+<img src ="./image1-toronto.png" width="100">
+<img src ="./image2-sydney.png" width="100">
+<img src ="./image3-new york.png" width="100">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
